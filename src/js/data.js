@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://i.imgur.com/';
+const imageRoot = 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/000c1d86-5264-45b2-8137-21a58e06771f/';
