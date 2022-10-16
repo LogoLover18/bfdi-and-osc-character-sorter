@@ -22,7 +22,8 @@ dataSet[dataSetVersion].options = [
 	  { name: "BFDI Mini characters", key: "m1" },
 	  { name: "BFDI Mini Again characters", key: "m2" },
 	  { name: "BFDI Mini Deluxe characters", key: "m3" },
-	  { name: "Algebraliens", key: "num" },
+	    { name: "BFDI Mini, Seriously! characters", key: "m4" },
+	  { name: "Algebralians", key: "num" },
 	  { name: "Speaker Boxes", key: "sb" }
     ]
   }
